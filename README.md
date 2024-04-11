@@ -17,7 +17,7 @@ My name is Kolya and I am Python Backend Developer.
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" **alt="pytest" width="40" height="40"/>&nbsp -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" **alt="QT" width="40" height="40"/>&nbsp
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>&nbsp
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Redis" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp
