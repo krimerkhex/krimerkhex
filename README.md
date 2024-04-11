@@ -3,7 +3,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-My name is Kolya and i am Backend Developer.
+My name is Kolya and I am Python Backend Developer.
 - :mortar_board: I am a student at School 21
 - :telescope: Studying Python and its libraries
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/telegram-white)](http://t.me/krimem/)
