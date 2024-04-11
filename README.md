@@ -4,8 +4,8 @@
 
 ### :man_technologist: About Me :
 My name is Kolya and i am Backend Developer.
-- :telescope: I am a student at School 21
-- :mortar_board: Studying Python and its libraries
+- :mortar_board: I am a student at School 21
+- :telescope: Studying Python and its libraries
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
